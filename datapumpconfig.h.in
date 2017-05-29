@@ -1,0 +1,2 @@
+#define datapump_version_major @datapump_version_major@
+#define datapump_version_minor @datapump_version_minor@
